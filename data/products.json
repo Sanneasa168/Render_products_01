@@ -1,242 +1,362 @@
 [
     {
-      "id": 1,
-      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
-      "price": 109.95,
-      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-      "category": "men's clothing",
-      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
-      "rating": {
-        "rate": 3.9,
-        "count": 120
-      }
+      "_id": 719826609818,
+      "name": "ផ្ទះរបស់ Kawashima បានរងរបួសដែកអ៊ីណុកធ្វើឱ្យគ្រោះថ្នាក់ដល់ផ្ទះនេះ - ធ្វើឱ្យស្នាមញញឹមស្នាមប្រេះជូតចៀនចាក់ទឹក",
+      "price": {
+        "minPrice": 0.67,
+        "maxPrice": 0.67
+      },
+      "promoPrice": {
+        "minPrice": 1.5,
+        "maxPrice": 1.5
+      },
+      "stock": 1000,
+      "sold": 1000,
+      "mainImage": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i1/1850033064/O1CN01l9a7BI1YVMO55HXnL_!!0-item_pic.jpg_180x180.jpg",
+      "merchant": "川岛屋旗舰店",
+      "provider": "taobao",
+      "url": "http://detail.tmall.com/item.htm?id=600570643319"
     },
     {
-      "id": 2,
-      "title": "Mens Casual Premium Slim Fit T-Shirts ",
-      "price": 22.3,
-      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
-      "category": "men's clothing",
-      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
-      "rating": {
-        "rate": 4.1,
-        "count": 259
-      }
+      "_id": 724570259438,
+      "name": " ឧបករណ៍ផ្ទះបាយដែកអ៊ីណុកដោះស្រាយដែកថែបស៊ីលីកូនឈុតផ្ទះបាយផ្ទះបាយផ្ទះបាយឧបករណ៍បំភ្លឺផ្ទះបាយធ្វើពីទំពាំងបាយជូរជ្រាបទឹក",
+      "price": {
+        "minPrice": 0.52,
+        "maxPrice": 0.52
+      },
+      "promoPrice": {
+        "minPrice": 1.35,
+        "maxPrice": 1.35
+      },
+      "stock": 2,
+      "sold": 2,
+      "mainImage": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i4/2206629141339/O1CN01dkyIzr1LlJBHdSTjR_!!0-item_pic.jpg_180x180.jpg",
+      "merchant": "集博旗舰店",
+      "provider": "taobao",
+      "url": "http://detail.tmall.com/item.htm?id=719826609818"
     },
     {
-      "id": 3,
-      "title": "Mens Cotton Jacket",
-      "price": 55.99,
-      "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
-      "category": "men's clothing",
-      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
-      "rating": {
-        "rate": 4.7,
-        "count": 500
-      }
+      "_id": 698141988616,
+      "name": " កុមារផ្ទុះថ្មីចំនួន 2023 នាក់បានឆ្លងកាត់រាល់ប្រដាប់ក្មេងលេងប្រដាប់ក្មេងលេងផ្ទះបាយប្រដាប់ក្មេងលេងផ្ទះបាយប្រដាប់ប្រដាក្មេងលេងអាយុ 3-9 ឆ្នាំកាដូនារីចាស់",
+      "price": {
+        "minPrice": 6.25,
+        "maxPrice": 6.25
+      },
+      "promoPrice": {
+        "minPrice": 6.25,
+        "maxPrice": 6.25
+      },
+      "stock": 37,
+      "sold": 37,
+      "mainImage": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i1/2215195232459/O1CN01gM0xNo1U2GjeJQtCm_!!0-item_pic.jpg_180x180.jpg",
+      "merchant": "贝聪鹿旗舰店",
+      "provider": "taobao",
+      "url": "http://detail.tmall.com/item.htm?id=724570259438"
     },
     {
-      "id": 4,
-      "title": "Mens Casual Slim Fit",
-      "price": 15.99,
-      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
-      "category": "men's clothing",
-      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
-      "rating": {
-        "rate": 2.1,
-        "count": 430
-      }
+      "_id": 673428712018,
+      "name": " Shooping ផ្ទះបាយសាច់ជ្រូកសាច់ជ្រូកស្ពាន់ធ័រដែកអ៊ីណុកដែកថែបដាក់ចានផ្ទះបាយមានផ្ទះបាយ - លាងចាន",
+      "price": {
+        "minPrice": 1.25,
+        "maxPrice": 1.25
+      },
+      "promoPrice": {
+        "minPrice": 2.08,
+        "maxPrice": 2.08
+      },
+      "stock": 300,
+      "sold": 300,
+      "mainImage": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i1/2209327518519/O1CN01Ua1fPE2Cnkpy6xMts_!!0-item_pic.jpg_180x180.jpg",
+      "merchant": "cookzone旗舰店",
+      "provider": "taobao",
+      "url": "http://detail.tmall.com/item.htm?id=698141988616"
     },
     {
-      "id": 5,
-      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
-      "price": 695,
-      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
-      "category": "jewelery",
-      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
-      "rating": {
-        "rate": 4.6,
-        "count": 400
-      }
+      "_id": 675232151772,
+      "name": " សុងស្ទឹងម៉ាក់ស្ពឺកក្តារអភិរក្សអគ្គិសនីម៉ាកហាយដិកដ៍កាហ្វេផតថលឧត្តមក្តៅហ្គាសសូលុយស្យុងឆ្លុះបញ្ចាំងពីចង្ក្រាន",
+      "price": {
+        "minPrice": 6.5,
+        "maxPrice": 6.5
+      },
+      "promoPrice": {
+        "minPrice": 6.5,
+        "maxPrice": 6.5
+      },
+      "stock": 8,
+      "sold": 8,
+      "mainImage": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i1/2206540818592/O1CN011CbNCB2DLBlY2Qbq9_!!2206540818592.jpg_180x180.jpg",
+      "merchant": "小膳师",
+      "provider": "taobao",
+      "url": "http://detail.tmall.com/item.htm?id=673428712018"
     },
     {
-      "id": 6,
-      "title": "Solid Gold Petite Micropave ",
-      "price": 168,
-      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
-      "category": "jewelery",
-      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
-      "rating": {
-        "rate": 3.9,
-        "count": 70
-      }
+      "_id": 583715399291,
+      "name": " ចម្អិនដែកដែកដែកអ៊ីណុកយកដែកថែប steak ប្រេងប៉ែលប៉ែលប៉ោលចៀនឧបករណ៍ចាប់យកប៉ែលត្រីផេនខេនសែលត្រីដុតនំចៀនចៀនប៉ែល",
+      "price": {
+        "minPrice": 0.75,
+        "maxPrice": 0.75
+      },
+      "promoPrice": {
+        "minPrice": 1.58,
+        "maxPrice": 1.58
+      },
+      "stock": 48,
+      "sold": 48,
+      "mainImage": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i3/4124639849/O1CN01upZX2A2MctZ9Orufb_!!0-item_pic.jpg_180x180.jpg",
+      "merchant": "初惠家居旗舰店",
+      "provider": "taobao",
+      "url": "http://detail.tmall.com/item.htm?id=675232151772"
     },
     {
-      "id": 7,
-      "title": "White Gold Plated Princess",
-      "price": 9.99,
-      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
-      "category": "jewelery",
-      "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
-      "rating": {
-        "rate": 3,
-        "count": 400
-      }
+      "_id": 772019728902,
+      "name": " 304 ដំឡូងមីដែកអ៊ីណុកភក់ភក់ភក់ដំឡូងមានសម្ពាធដោយដៃផ្លែឈើអាហារបំប៉នអាហារបំប៉នភក់ភក់ភក់ផ្ទះភក់",
+      "price": {
+        "minPrice": 8.24,
+        "maxPrice": 8.24
+      },
+      "promoPrice": {
+        "minPrice": 8.24,
+        "maxPrice": 8.24
+      },
+      "stock": 0,
+      "sold": 0,
+      "mainImage": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i2/2216082006710/O1CN01AM7IiG1zREX2vbzL9_!!0-item_pic.jpg_180x180.jpg",
+      "merchant": "器亥家居专营店",
+      "provider": "taobao",
+      "url": "http://detail.tmall.com/item.htm?id=583715399291"
     },
     {
-      "id": 8,
-      "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
-      "price": 10.99,
-      "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
-      "category": "jewelery",
-      "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
-      "rating": {
-        "rate": 1.9,
-        "count": 100
-      }
+      "_id": 570702675605,
+      "name": " ស្លាបព្រាទឹកប្លាស្ទិចស្ករសស្កុបក្រាស់ក្រាស់ក្រាស់សាច់ជ្រូកទារកងូតទឹកផ្ទះបាយពណ៌ផ្ទះបាយពណ៌ផ្ទះបាយ",
+      "price": {
+        "minPrice": 0.6,
+        "maxPrice": 0.6
+      },
+      "promoPrice": {
+        "minPrice": 0.6,
+        "maxPrice": 0.6
+      },
+      "stock": 100,
+      "sold": 100,
+      "mainImage": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i3/1763792646/O1CN01fSk5u11VPuumEUHTx_!!0-item_pic.jpg_180x180.jpg",
+      "merchant": "品牌农资综合批发部",
+      "provider": "taobao",
+      "url": "http://detail.tmall.com/item.htm?id=772019728902"
     },
     {
-      "id": 9,
-      "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
-      "price": 64,
-      "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
-      "category": "electronics",
-      "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
-      "rating": {
-        "rate": 3.3,
-        "count": 203
-      }
+      "_id": 766325919529,
+      "name": " SMEGHBF02 បាននាំចូលបន្ទះលាយអាហារបំប៉នអាហារបំប៉នពហុការធ្វើម្ហូបបំបាត់ការធ្វើម្ហូបបំប៉នច្រើន",
+      "price": {
+        "minPrice": 199.67,
+        "maxPrice": 199.67
+      },
+      "promoPrice": {
+        "minPrice": 199.67,
+        "maxPrice": 199.67
+      },
+      "stock": 4,
+      "sold": 4,
+      "mainImage": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i2/3013447091/O1CN01be9FPK22FjQTO0tVq_!!3013447091.jpg_180x180.jpg",
+      "merchant": "托马斯麻麻",
+      "provider": "taobao",
+      "url": "http://detail.tmall.com/item.htm?id=570702675605"
     },
     {
-      "id": 10,
-      "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
-      "price": 109,
-      "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
-      "category": "electronics",
-      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
-      "rating": {
-        "rate": 2.9,
-        "count": 470
-      }
+      "_id": 763283160604,
+      "name": " 304 ដំឡូងមីដែកអ៊ីណុកភក់ភក់ភក់ដំឡូងមានសម្ពាធដោយដៃផ្លែឈើអាហារបំប៉នអាហារបំប៉នភក់ភក់ភក់ផ្ទះភក់",
+      "price": {
+        "minPrice": 2.27,
+        "maxPrice": 2.27
+      },
+      "promoPrice": {
+        "minPrice": 4.7,
+        "maxPrice": 4.7
+      },
+      "stock": 0,
+      "sold": 0,
+      "mainImage": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i4/2209265010603/O1CN016lCfjy1GKDkMsLLlV_!!0-item_pic.jpg_180x180.jpg",
+      "merchant": "邦耐居家日用旗舰店",
+      "provider": "taobao",
+      "url": "http://detail.tmall.com/item.htm?id=766325919529"
     },
     {
-      "id": 11,
-      "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
-      "price": 109,
-      "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-      "category": "electronics",
-      "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
-      "rating": {
-        "rate": 4.8,
-        "count": 319
-      }
+      "_id": 676536370822,
+      "name": " Xman + Clip Clip Clip Clip Light ដុតនំសាច់អាំងសាច់រដិបចេញ 304 គុណវិបត្តិមីក្រូមីនី",
+      "price": {
+        "minPrice": 1.15,
+        "maxPrice": 1.15
+      },
+      "promoPrice": {
+        "minPrice": 1.15,
+        "maxPrice": 1.15
+      },
+      "stock": 1000,
+      "sold": 1000,
+      "mainImage": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i4/78599935/O1CN01MkFC1R2NGHfpnXSl2_!!78599935.jpg_180x180.jpg",
+      "merchant": "极炫小满",
+      "provider": "taobao",
+      "url": "http://detail.tmall.com/item.htm?id=763283160604"
     },
     {
-      "id": 12,
-      "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
-      "price": 114,
-      "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
-      "category": "electronics",
-      "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
-      "rating": {
-        "rate": 4.8,
-        "count": 400
-      }
+      "_id": 763351566899,
+      "name": " ជញ្ជាំងស៊ុមកាំបិតផ្ទះបាយ -Mounted -Funee ផ្ទះបាយពហុកាំបិតផ្ទុកកាំបិតដែលផ្ទុកកាំបិត chopstick បំពង់ដាក់ភ្ជាប់ប្រអប់តំឡើង",
+      "price": {
+        "minPrice": 2.65,
+        "maxPrice": 2.65
+      },
+      "promoPrice": {
+        "minPrice": 2.82,
+        "maxPrice": 2.82
+      },
+      "stock": 500,
+      "sold": 500,
+      "mainImage": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i4/2200778999140/O1CN01ekrI8D2HOAxdTnRQ1_!!0-item_pic.jpg_180x180.jpg",
+      "merchant": "睦歌家居旗舰店",
+      "provider": "taobao",
+      "url": "http://detail.tmall.com/item.htm?id=676536370822"
     },
     {
-      "id": 13,
-      "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
-      "price": 599,
-      "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
-      "category": "electronics",
-      "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
-      "rating": {
-        "rate": 2.9,
-        "count": 250
-      }
+      "_id": 652083735355,
+      "name": " ភោជនីយដ្ឋានវត្ថុបុរាណដំឡូងសូត្រពិសេសជូតពិសេសរបស់អ្នកធ្វើផែនការសំរិទ្ធលង្ហិនកាត់ផ្តៅអ្នកធ្វើផែនការបន្លែបន្លែ",
+      "price": {
+        "minPrice": 2.25,
+        "maxPrice": 2.25
+      },
+      "promoPrice": {
+        "minPrice": 2.25,
+        "maxPrice": 2.25
+      },
+      "stock": 22,
+      "sold": 22,
+      "mainImage": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i4/2210696704372/O1CN019QhFy91iAQHrsZUmA_!!2210696704372.jpg_180x180.jpg",
+      "merchant": "tb918198594",
+      "provider": "taobao",
+      "url": "http://detail.tmall.com/item.htm?id=763351566899"
     },
     {
-      "id": 14,
-      "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
-      "price": 999.99,
-      "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
-      "category": "electronics",
-      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
-      "rating": {
-        "rate": 2.2,
-        "count": 140
-      }
+      "_id": 585264628810,
+      "name": " ការច្នៃប្រឌិតបន្ទប់ទំនេរដ៏មានឥទ្ធិពលដែលភ្ជាប់បន្ទប់ទឹកផ្ទះបាយដែលមានភ្ជាប់បន្ទប់ទឹកដោយគ្មានដានដានពហុការធ្វើឱ្យមានទ្វារចង្រក់ទ្វារទ្វារ",
+      "price": {
+        "minPrice": 0.97,
+        "maxPrice": 0.97
+      },
+      "promoPrice": {
+        "minPrice": 0.97,
+        "maxPrice": 0.97
+      },
+      "stock": 300,
+      "sold": 300,
+      "mainImage": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i1/849090736/O1CN01PifagM1HJ7zo8IVDJ_!!849090736.jpg_180x180.jpg",
+      "merchant": "集美饰品商城",
+      "provider": "taobao",
+      "url": "http://detail.tmall.com/item.htm?id=652083735355"
     },
     {
-      "id": 15,
-      "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
-      "price": 56.99,
-      "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
-      "category": "women's clothing",
-      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
-      "rating": {
-        "rate": 2.6,
-        "count": 235
-      }
+      "_id": 626986778230,
+      "name": " ខាញ់ការបូមធូលីដែលមានថាមពលកន្សែងដែលមានភាពច្នៃប្រឌិតលាក់បាំងប្រពៃណីដោយគ្មានការដាល់ខ្សែក្រវ៉ាត់កន្សែង",
+      "price": {
+        "minPrice": 0.97,
+        "maxPrice": 0.97
+      },
+      "promoPrice": {
+        "minPrice": 0.97,
+        "maxPrice": 0.97
+      },
+      "stock": 22,
+      "sold": 22,
+      "mainImage": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i1/849090736/O1CN01PifagM1HJ7zo8IVDJ_!!849090736.jpg_180x180.jpg",
+      "merchant": "tb584491498",
+      "provider": "taobao",
+      "url": "http://detail.tmall.com/item.htm?id=585264628810"
     },
     {
-      "id": 16,
-      "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
-      "price": 29.95,
-      "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
-      "category": "women's clothing",
-      "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
-      "rating": {
-        "rate": 2.9,
-        "count": 340
-      }
+      "_id": 586079138406,
+      "name": " ការច្នៃប្រឌិតបន្ទប់ទំនេរដ៏មានឥទ្ធិពលដែលភ្ជាប់បន្ទប់ទឹកផ្ទះបាយដែលមានភ្ជាប់បន្ទប់ទឹកដោយគ្មានដានដានពហុការធ្វើឱ្យមានទ្វារចង្រក់ទ្វារទ្វារ",
+      "price": {
+        "minPrice": 0.97,
+        "maxPrice": 0.97
+      },
+      "promoPrice": {
+        "minPrice": 0.97,
+        "maxPrice": 0.97
+      },
+      "stock": 20,
+      "sold": 20,
+      "mainImage": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i3/405312179/O1CN01QWZSIv1Ry1WN6lYwD_!!405312179.jpg_180x180.jpg",
+      "merchant": "驴肉火烧111",
+      "provider": "taobao",
+      "url": "http://detail.tmall.com/item.htm?id=626986778230"
     },
     {
-      "id": 17,
-      "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
-      "price": 39.99,
-      "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
-      "category": "women's clothing",
-      "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
-      "rating": {
-        "rate": 3.8,
-        "count": 679
-      }
+      "_id": 772137005100,
+      "name": " 304 ដំឡូងមីដែកអ៊ីណុកភក់ភក់ភក់ដំឡូងមានសម្ពាធដោយដៃផ្លែឈើអាហារបំប៉នអាហារបំប៉នភក់ភក់ភក់ផ្ទះភក់",
+      "price": {
+        "minPrice": 4.7,
+        "maxPrice": 4.7
+      },
+      "promoPrice": {
+        "minPrice": 4.7,
+        "maxPrice": 4.7
+      },
+      "stock": 0,
+      "sold": 0,
+      "mainImage": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i2/2217248225735/O1CN01qNyWtZ1sEgMynukqK_!!0-item_pic.jpg_180x180.jpg",
+      "merchant": "堪纳德旗舰店",
+      "provider": "taobao",
+      "url": "http://detail.tmall.com/item.htm?id=586079138406"
     },
     {
-      "id": 18,
-      "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
-      "price": 9.85,
-      "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
-      "category": "women's clothing",
-      "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
-      "rating": {
-        "rate": 4.7,
-        "count": 130
-      }
+      "_id": 770423902429,
+      "name": " ហាងលក់គ្រឿងសង្ហារិមទាន់ផ្នែកខាងមុខរបស់ក្រុមហ៊ុនអាកាសចរណ៍ស៊ីលីខនរបស់អ៊ឺរ៉ុបបានធ្វើឱ្យមានរសជាតិបំរែបំរួលសំភារៈផ្ទះបាយស៊ីលីអូ -To -Splag ប៉ែលប្រេងឧបករណ៍លាយប្រេងដុតនំ",
+      "price": {
+        "minPrice": 3.33,
+        "maxPrice": 3.33
+      },
+      "promoPrice": {
+        "minPrice": 3.33,
+        "maxPrice": 3.33
+      },
+      "stock": 0,
+      "sold": 0,
+      "mainImage": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i3/2203804798627/O1CN01Oki62g2DbDmyyQwmG_!!2203804798627.jpg_180x180.jpg",
+      "merchant": "平平启佳店",
+      "provider": "taobao",
+      "url": "http://detail.tmall.com/item.htm?id=772137005100"
     },
     {
-      "id": 19,
-      "title": "Opna Women's Short Sleeve Moisture",
-      "price": 7.95,
-      "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-      "category": "women's clothing",
-      "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
-      "rating": {
-        "rate": 4.5,
-        "count": 146
-      }
+      "_id": 738920659786,
+      "name": " គំរបប្រអប់ផ្ទុកផ្ទះបាយបានកំណត់ធ្នើផ្ទុកចន្ទីផ្ទុកប្លាស្ទិចប្លាស្ទិចនៅក្រោមធ្នើ",
+      "price": {
+        "minPrice": 1.15,
+        "maxPrice": 1.15
+      },
+      "promoPrice": {
+        "minPrice": 1.15,
+        "maxPrice": 1.15
+      },
+      "stock": 800,
+      "sold": 800,
+      "mainImage": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i4/2081176132/O1CN01XVphk81vAVYKgOu1R_!!2081176132.jpg_180x180.jpg",
+      "merchant": "洁尚家居",
+      "provider": "taobao",
+      "url": "http://detail.tmall.com/item.htm?id=770423902429"
     },
     {
-      "id": 20,
-      "title": "DANVOUY Womens T Shirt Casual Cotton Short",
-      "price": 12.99,
-      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
-      "category": "women's clothing",
-      "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
-      "rating": {
-        "rate": 3.6,
-        "count": 145
-      }
+      "_id": 768048375379,
+      "name": " Hooken Hook -Free Punch -free ព្យួរសក្តានុពលនៃស្លាបព្រា, ធ្នើអាលុយមីញ៉ូមដែលមានទំហំធំទូលាយ - ធ្នឹមផ្ទុកទិន្នន័យ",
+      "price": {
+        "minPrice": 1.47,
+        "maxPrice": 1.47
+      },
+      "promoPrice": {
+        "minPrice": 1.4,
+        "maxPrice": 1.4
+      },
+      "stock": 200,
+      "sold": 200,
+      "mainImage": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i4/676164666/O1CN01aVChbO1kL4yDqdSv7_!!0-item_pic.jpg_180x180.jpg",
+      "merchant": "蓝藤卫浴官方旗舰店",
+      "provider": "taobao",
+      "url": "http://detail.tmall.com/item.htm?id=738920659786"
     }
   ]

@@ -1,19 +1,14 @@
-import { getData } from "../store/fatchApi.js";
-import { CardComponent } from "../components/CardComponent.js";
+import { Cardcomponent } from "../component/CardComponent.js";
+import { getData } from "../store/fetchAPI.js";
 
-const renderArea = document.querySelector("#renderArea");
-const url = "http://127.0.0.1:5500/data/products.json";
+const renderTocardProduct = document.getElementById("RENDER_PRODUCT");
+    try {
+        const products = await getData("products");
+        console.log("Here product data:", products);
 
-async function fetchData() {
-  try {
-    const response = await fetch(url);
-    const products = await response.json();
-    products.forEach((product) => {
-      renderArea.innerHTML += CardComponent(product);
-    });
-  } catch (error) {
-    console.error("Error fetching data:", error);
-  }
-}
-
-fetchData();
+        products.forEach(product => {
+            renderTocardProduct.innerHTML += Cardcomponent(product);
+        });
+    } catch (error) {
+        console.error("Error fetching products:", error);
+    }
